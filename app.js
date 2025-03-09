@@ -1,70 +1,70 @@
----------chapter 01 question ----
+// ---------chapter 01 question ----
 
-Q.01
+//Q.01
 
-alert("")
+// alert("")
 
-Q.02
+// Q.02
 
-alert("Error! Please enter a valid pasworrd")
+// alert("Error! Please enter a valid pasworrd")
 
-Q.03
+// Q.03
 
-var linbreak ="Welcom to js land\n Happy codding"
+// var linbreak ="Welcom to js land\n Happy codding"
 
-alert(linbreak)
+// alert(linbreak)
 
-Q.04
+// Q.04
 
-var practice1n = "welcom to js land"
+// var practice1n = "welcom to js land"
 
-alert(practice1n)
+// alert(practice1n)
 
-var practice1n = "Happy codding"
+// var practice1n = "Happy codding"
 
-alert(practice1n)
+// alert(practice1n)
 
-Q.05
+// Q.05
 
-var print = "Hello.. Ican Js through my web browser's console"
+// var print = "Hello.. Ican Js through my web browser's console"
 
-console.log(print)
+// console.log(print)
 
----------chapter 02 questi
+// ---------chapter 02 questi
 
-Q.01
+//Q.01
 
- var chap = "Faiq"
- alert(chap)
- var chap = "15 years"
- alert(chap)
- var chap = "certified mobile application development"
- alert(chap)
+//  var chap = "Faiq"
+//  alert(chap)
+//  var chap = "15 years"
+//  alert(chap)
+//  var chap = "certified mobile application development"
+//  alert(chap)
 
-Q.02
+// Q.02
 
-var chap = "PIZZA\n PIZZ\n PIZ\n PI\n P"
-alert(chap)
+// var chap = "PIZZA\n PIZZ\n PIZ\n PI\n P"
+// alert(chap)
 
-Q.03
+// Q.03
 
-var Email = "my email address is muhammadfaiqwaseem@gmail.com"
+// var Email = "my email address is muhammadfaiqwaseem@gmail.com"
 
-alert(Email)
+// alert(Email)
 
-Q.04
+// Q.04
 
- var book = "JavaScript Exercises for A Smarterway To Learn JavaScript Book"
+//  var book = "JavaScript Exercises for A Smarterway To Learn JavaScript Book"
 
- alert(book)
+//  alert(book)
 
-Q.05
-yah i cna write html content through javasript
+// Q.05
+// yah i cna write html content through javasript
 
-Q.06
+// Q.06
 
-var smbal = "----------------------&&**&&-----------------------"
+// var smbal = "----------------------&&**&&-----------------------"
 
-alert(smbal)
+// alert(smbal)
 
----------chapter 03 questi
+// ---------chapter 03 questi
